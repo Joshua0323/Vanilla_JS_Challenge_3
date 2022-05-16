@@ -1,2 +1,2 @@
-# Vanilla_JS_Challenge_3
+# Vanilla_JS_Challenge
 Created with CodeSandbox
